@@ -19,7 +19,7 @@ Analisis ini dilakukan untuk membedah faktor-faktor utama yang memengaruhi harga
 
 * **Nama Dataset:** California Housing Prices (Data Sensus Penduduk California 1990 — Pace & Barry, 1997)[cite: 2, 5]
 * **Dimensi:** 20.640 blok sensus (*block group*) dan 10 variabel (9 numerik, 1 kategorik)[cite: 5]
-* **Tautan Dataset:** `[ISI_LINK_SUMBER_DATASET_DI_SINI](https://github.com/ageron/handson-ml2/tree/master/datasets/housing)]` *(contoh: link Kaggle atau repositori GitHub `ageron/handson-ml2`)*[cite: 2, 5]
+* **Dataset: ([california housing](https://github.com/ageron/handson-ml2/tree/master/datasets/housing))*[cite: 2, 5]
 
 ---
 
